@@ -1,6 +1,6 @@
-nums = [11, 30, 44, 54]
-
 # 1 Translate Tabs to Spaces (IDE settings)
+
+nums = [11, 30, 44, 54]
 
 for num in nums:
     square = num ** 2
