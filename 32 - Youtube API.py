@@ -1,5 +1,5 @@
 
-# YouTube API : Calculating the Duration of a Playlist
+# YouTube API : Getting Started and Calculating the Duration of a Playlist
 
 # Google Developers Console - https://console.developers.google.com/
 # Google API Python Client - https://github.com/googleapis/google-api-python-client
