@@ -1,3 +1,5 @@
+-- Final script for Corey Schafer SQL Tutorials (6 videos ~35min)
+
 -- Part 1: 
 -- 1) Getting started with PostGreSQL and dbeaver 
 -- 2) Create our first database and table 
