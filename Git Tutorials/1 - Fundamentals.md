@@ -7,18 +7,23 @@ Git is a distributed VCS: all developers have access to a local repository which
 ## Installing Git
 
   - Intall Homebrew and Command Line for Xcode
+
 Line 1: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
   - Change the path
+
 Line 2: echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/"YOUR USER NAME"/.zprofile
+
 Line 3: eval $(/opt/homebrew/bin/brew shellenv)
 
 Note: create a Apple developer account at the same time
 
   - Check brew installation:
+
 Line 4: brew help
 
   - Install Git 
+
 Line 5: brew install git
 
 ## Terminal commands
