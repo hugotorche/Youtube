@@ -32,6 +32,7 @@ Line 5: brew install git
 	cd .. - returns one dir back 
 	cd - enters a directory
 	. - just install in the current directory 
+	rm -rf .. - remove a directory
 
 ## Git commands
 
